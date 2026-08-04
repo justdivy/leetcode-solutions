@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/justdivy/leetcode-solutions/tree/master/0001-two-sum) |
+| [3731-find-missing-elements](https://github.com/justdivy/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/justdivy/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/justdivy/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3731-find-missing-elements](https://github.com/justdivy/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -20,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/justdivy/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/justdivy/leetcode-solutions/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
