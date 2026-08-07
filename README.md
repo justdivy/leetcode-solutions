@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/justdivy/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/justdivy/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/justdivy/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0867-transpose-matrix](https://github.com/justdivy/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/justdivy/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3731-find-missing-elements](https://github.com/justdivy/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/justdivy/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/justdivy/leetcode-solutions/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/justdivy/leetcode-solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
