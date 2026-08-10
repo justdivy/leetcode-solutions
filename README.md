@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/justdivy/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/justdivy/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/justdivy/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/justdivy/leetcode-solutions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/justdivy/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/justdivy/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/justdivy/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/justdivy/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/justdivy/leetcode-solutions/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/justdivy/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
