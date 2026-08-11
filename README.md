@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/justdivy/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0867-transpose-matrix](https://github.com/justdivy/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/justdivy/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/justdivy/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/justdivy/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/justdivy/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/justdivy/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/justdivy/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/justdivy/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/justdivy/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/justdivy/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
