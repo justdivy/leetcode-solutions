@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/justdivy/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/justdivy/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0771-jewels-and-stones](https://github.com/justdivy/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/justdivy/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/justdivy/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## String
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/justdivy/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/justdivy/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/justdivy/leetcode-solutions/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/justdivy/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 ## Sliding Window
 |  |
 | ------- |
