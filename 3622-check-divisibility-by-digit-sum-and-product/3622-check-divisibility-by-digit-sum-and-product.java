@@ -6,10 +6,12 @@ class Solution {
 
         while(temp > 0){
             int digit = temp % 10;
-            sum = sum + digit;
-            product = product * digit;
-            temp = temp / 10;
+            sum += digit;
+            product *= digit;
+            temp /= 10;
+
         }
-        return n % (sum + product) == 0;
+        int divisor = sum + product;
+        return n % divisor == 0;
     }
 }
