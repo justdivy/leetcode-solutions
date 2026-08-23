@@ -10,14 +10,16 @@ class Solution {
         romanValues.put('M', 1000);
 
         int result = 0;
+        int maxValue = 0;
 
-        for(int i=0; i<s.length(); i++){
+        for(int i=s.length()-1; i>=0; i--){
             int currentValue = romanValues.get(s.charAt(i));
 
-            if(i+1 < s.length() && currentValue < romanValues.get(s.charAt(i+1))){
+            if(currentValue < maxValue){
                 result -= currentValue;
             }else{
                 result += currentValue;
+                maxValue = currentValue;
             }
         }
         return result;
