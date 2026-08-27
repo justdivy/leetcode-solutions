@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/justdivy/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/justdivy/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/justdivy/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/justdivy/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/justdivy/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1386-cinema-seat-allocation](https://github.com/justdivy/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/justdivy/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/justdivy/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/justdivy/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/justdivy/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/justdivy/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/justdivy/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/justdivy/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 ## Sliding Window
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/justdivy/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/justdivy/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/justdivy/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/justdivy/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/justdivy/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/justdivy/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Math
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/justdivy/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/justdivy/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/justdivy/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
