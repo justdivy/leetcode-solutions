@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/justdivy/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/justdivy/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/justdivy/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/justdivy/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/justdivy/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/justdivy/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1386-cinema-seat-allocation](https://github.com/justdivy/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/justdivy/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/justdivy/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/justdivy/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/justdivy/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/justdivy/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/justdivy/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/justdivy/leetcode-solutions/tree/master/0771-jewels-and-stones) |
@@ -132,8 +134,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/justdivy/leetcode-solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/justdivy/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/justdivy/leetcode-solutions/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/justdivy/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
