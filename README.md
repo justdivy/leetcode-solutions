@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/justdivy/leetcode-solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/justdivy/leetcode-solutions/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/justdivy/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0728-self-dividing-numbers](https://github.com/justdivy/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/justdivy/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2652-sum-multiples](https://github.com/justdivy/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/justdivy/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
