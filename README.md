@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/justdivy/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1386-cinema-seat-allocation](https://github.com/justdivy/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/justdivy/leetcode-solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/justdivy/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/justdivy/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/justdivy/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/justdivy/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/justdivy/leetcode-solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/justdivy/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Greedy
 |  |
 | ------- |
