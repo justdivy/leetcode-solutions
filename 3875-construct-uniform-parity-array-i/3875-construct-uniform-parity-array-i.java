@@ -4,10 +4,10 @@ class Solution {
        int evenCount = 0;
 
        for(int num : nums1){
-        if(num % 2 == 1){
-            oddCount++;
-        }else{
+        if(num % 2 == 0){
             evenCount++;
+        }else{
+            oddCount++;
         }
        }
        if(oddCount == 0 || evenCount == 0){
