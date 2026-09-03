@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/justdivy/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/justdivy/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0485-max-consecutive-ones](https://github.com/justdivy/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0566-reshape-the-matrix](https://github.com/justdivy/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/justdivy/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/justdivy/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1386-cinema-seat-allocation](https://github.com/justdivy/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -103,11 +104,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/justdivy/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/justdivy/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/justdivy/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/justdivy/leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/justdivy/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0566-reshape-the-matrix](https://github.com/justdivy/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/justdivy/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/justdivy/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/justdivy/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
