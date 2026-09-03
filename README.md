@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/justdivy/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/justdivy/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/justdivy/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/justdivy/leetcode-solutions/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/justdivy/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/justdivy/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/justdivy/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/justdivy/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/justdivy/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/justdivy/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/justdivy/leetcode-solutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/justdivy/leetcode-solutions/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/justdivy/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/justdivy/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/justdivy/leetcode-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/justdivy/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/justdivy/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/justdivy/leetcode-solutions/tree/master/0867-transpose-matrix) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/justdivy/leetcode-solutions/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/justdivy/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/justdivy/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/justdivy/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
