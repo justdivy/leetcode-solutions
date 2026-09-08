@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/justdivy/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2652-sum-multiples](https://github.com/justdivy/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/justdivy/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/justdivy/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/justdivy/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
