@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/justdivy/leetcode-solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1470-shuffle-the-array](https://github.com/justdivy/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/justdivy/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/justdivy/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/justdivy/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/justdivy/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/justdivy/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/justdivy/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/justdivy/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/justdivy/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/justdivy/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2652-sum-multiples](https://github.com/justdivy/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/justdivy/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/justdivy/leetcode-solutions/tree/master/3870-count-commas-in-range) |
