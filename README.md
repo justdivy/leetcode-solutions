@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/justdivy/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/justdivy/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/justdivy/leetcode-solutions/tree/master/0577-employee-bonus) |
+| [0610-triangle-judgement](https://github.com/justdivy/leetcode-solutions/tree/master/0610-triangle-judgement) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/justdivy/leetcode-solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [3570-find-books-with-no-available-copies](https://github.com/justdivy/leetcode-solutions/tree/master/3570-find-books-with-no-available-copies) |
 ## Recursion
