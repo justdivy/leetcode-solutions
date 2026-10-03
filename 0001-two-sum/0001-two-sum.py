@@ -1,15 +1,8 @@
-class Solution(object):
-    def twoSum(self, nums, target):
-        ans = [0,0]
-
-        for i in range(len(nums)):
-            for j in range(i + 1, len(nums)):
-                if nums[i] + nums[j] == target:
-
-                   ans[0] = i
-                   ans[1] = j
-                   break
-
-        return ans
-
-        
+class Solution:
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
+        seen = {}
+        for i, num in enumerate(nums):
+            need = target - num
+            if need in seen:
+                return [seen[need], i]
+            seen[num] = i
