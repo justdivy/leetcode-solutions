@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/justdivy/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/justdivy/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/justdivy/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/justdivy/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/justdivy/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/justdivy/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/justdivy/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/justdivy/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/justdivy/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/justdivy/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/justdivy/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/justdivy/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/justdivy/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Math
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/justdivy/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/justdivy/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/justdivy/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Trie
 |  |
 | ------- |
