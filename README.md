@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/justdivy/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/justdivy/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/justdivy/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/justdivy/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/justdivy/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/justdivy/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/justdivy/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/justdivy/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3364-minimum-positive-sum-subarray](https://github.com/justdivy/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/justdivy/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sorting
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/justdivy/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/justdivy/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2652-sum-multiples](https://github.com/justdivy/leetcode-solutions/tree/master/2652-sum-multiples) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/justdivy/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/justdivy/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/justdivy/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/justdivy/leetcode-solutions/tree/master/3870-count-commas-in-range) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/justdivy/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/justdivy/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/justdivy/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
@@ -354,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/justdivy/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/justdivy/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
