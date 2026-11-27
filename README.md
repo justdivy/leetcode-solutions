@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/justdivy/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/justdivy/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/justdivy/leetcode-solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/justdivy/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/justdivy/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/justdivy/leetcode-solutions/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/justdivy/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/justdivy/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/justdivy/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/justdivy/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/justdivy/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/justdivy/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/justdivy/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -365,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/justdivy/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/justdivy/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
